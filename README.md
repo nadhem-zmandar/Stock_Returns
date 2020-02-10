@@ -1,2 +1,2 @@
-# Stock_Returns_US_Large_Caps
-simple python notebook to calculate , annual returns , volatility and sharpe ratio for US Large Cap index
+# Stock_Returns
+simple python notebook to calculate , annual returns , volatility , sharpe ratio and correlations for US Large Cap index , commodities and emerging markets. Data are extracted from Yahoo Finance
